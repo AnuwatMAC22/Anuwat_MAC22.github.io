@@ -1,9 +1,6 @@
-<!Anuwat_MAC22 html>
 <html>
 <head>
-</head>
-<body><h1>Anuwat Nauk-ounjit</h1>
-<hr>
-<img style="width:100px" src="">
-</body>
+  <body>
+    <h1>Anuwat Nauk-ounjit</h1>
+  </body>
 </html>
